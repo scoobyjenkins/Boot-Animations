@@ -1,2 +1,2 @@
-# Boot-Animations
-Here are my boot animations for use in roms I create them for
+# Tipsy-N
+Boot Animation for Tipsy-N
